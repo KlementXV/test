@@ -1,0 +1,8 @@
+[
+    {
+      "nom": "Application 1",
+      "url_logo": "https://loading.io/s/icon/aczhzh.svg",
+      "url_docker_compose": "https://github.com/{OWNER}/{REPO}/blob/main/path/to/docker-compose1.yml"
+    }
+  ]
+  
