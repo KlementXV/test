@@ -1,7 +1,7 @@
 [
     {
       "nom": "Application 1",
-      "url_logo": "https://loading.io/s/icon/aczhzh.svg",
+      "url_logo": "https://avatars.githubusercontent.com/u/50872057?v=4",
       "url_docker_compose": "https://github.com/{OWNER}/{REPO}/blob/main/path/to/docker-compose1.yml"
     }
   ]
