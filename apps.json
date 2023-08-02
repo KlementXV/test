@@ -1,8 +1,7 @@
 [
-    {
-      "nom": "Application 1",
-      "url_logo": "https://avatars.githubusercontent.com/u/50872057?v=4",
-      "url_docker_compose": "https://github.com/{OWNER}/{REPO}/blob/main/path/to/docker-compose1.yml"
-    }
-  ]
-  
+  {
+    "nom": "Application 1",
+    "url_logo": "https://raw.githubusercontent.com/KlementXV/test/main/apps/app_1/logo.jpg",
+    "url_docker_compose": "https://raw.githubusercontent.com/KlementXV/test/main/apps/app_1/docker-compose.yml"
+  }
+]
